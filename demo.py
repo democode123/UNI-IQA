@@ -26,7 +26,7 @@ model.load_state_dict(checkpoint)
 
 model.eval() 
 
-image = './demo/test.JPG'
+image = './demo/test_ni.jpg'
 
 image = Image.open(image)
 image = test_transform(image)
