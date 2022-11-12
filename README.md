@@ -19,8 +19,8 @@ python main.py
 Compute SRCC/PLCC after nonlinear mapping: result_analysis.m  
 Compute fidelity loss: eval_fidelity.m
 
-# Link to download the NI and SCI datasets
-Baidu: https://pan.baidu.com/s/1TTyb0FJzUdP6muLSbVN3hQ  code: ptg0
+# Links to download the NI and SCI datasets used in the experiment
+NI datasets: <a href="https://github.com/zwx8981/UNIQUE">Baidu Netdisk</a> (code:)   SCI datasets: <a href="https://github.com/zwx8981/UNIQUE">Baidu Netdisk</a>(code:)
 
 # Notice
 Our code is base on <a href="https://github.com/zwx8981/UNIQUE">UNIQUE</a>, we are truly grateful
