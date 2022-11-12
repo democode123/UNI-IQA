@@ -19,10 +19,11 @@ python main.py
 Compute SRCC/PLCC after nonlinear mapping: result_analysis.m  
 Compute fidelity loss: eval_fidelity.m
 
-# Links to download the NI and SCI datasets used in the experiment
+# the NI and SCI datasets  used in the experiment
 NI datasets: LIVE, CSIQ, KADID-10K, TID2013, LIVE-Challenge and KonIQ-
 10K    
-SCI datasets: SIQAD and SCID
+SCI datasets: SIQAD and SCID   
+(We will present links to download this datasets for training and testing.)
 
 
 # Notice
