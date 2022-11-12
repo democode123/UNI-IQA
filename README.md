@@ -22,7 +22,6 @@ Compute fidelity loss: eval_fidelity.m
 # Links to download the NI and SCI datasets used in the experiment
 NI datasets: <a href="https://github.com/zwx8981/UNIQUE">Baidu Netdisk</a> (code:)  
 SCI datasets: <a href="https://github.com/zwx8981/UNIQUE">Baidu Netdisk</a> (code:)  
-(If the links are unavailable, please contact me.)
 
 # Notice
 Our code is base on <a href="https://github.com/zwx8981/UNIQUE">UNIQUE</a>, we are truly grateful
