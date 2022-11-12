@@ -20,8 +20,10 @@ Compute SRCC/PLCC after nonlinear mapping: result_analysis.m
 Compute fidelity loss: eval_fidelity.m
 
 # Links to download the NI and SCI datasets used in the experiment
-NI datasets: <a href="https://github.com/zwx8981/UNIQUE">Baidu Netdisk</a> (code:)  
-SCI datasets: <a href="https://github.com/zwx8981/UNIQUE">Baidu Netdisk</a> (code:)  
+NI datasets: LIVE, CSIQ, KADID-10K, TID2013, LIVE-Challenge and KonIQ-
+10K    
+SCI datasets: SIQAD and SCID
+
 
 # Notice
 Our code is base on <a href="https://github.com/zwx8981/UNIQUE">UNIQUE</a>, we are truly grateful
