@@ -22,3 +22,6 @@ Compute fidelity loss: eval_fidelity.m
 # Link to download the NI and SCI datasets
 Baidu: https://pan.baidu.com/s/1TTyb0FJzUdP6muLSbVN3hQ  code: ptg0
 
+#Notice
+Our code is base on <a href="https://github.com/zwx8981/UNIQUE">UNIQUE/</a>, we are truly grateful
+for the authors' contribution.
