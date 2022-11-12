@@ -26,7 +26,7 @@ We utilize both NI and SCI datasets in the experiment.
 NI datasets: LIVE, CSIQ, KADID-10K, TID2013, LIVE-Challenge and KonIQ-
 10K    
 SCI datasets: SIQAD and SCID   
-(We will present links to download this datasets for training and testing.)
+(We will present links to download these datasets for easy access.)
 
 
 # Notice
