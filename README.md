@@ -1,7 +1,7 @@
 # UNI-IQA
 A pytorch implementation of the paper ''UNI-IQA: A Unified Approach for Mutual Promotion of Natural and Screen Content Image Quality Assessment"
 
-![image](https://github.com/democode123/UNI-IQA/blob/master/pipeline.png)
+![image](https://github.com/democode123/UNI-IQA/blob/main/pipeline.png)
 
 # Prequisite:
 Python 3+
