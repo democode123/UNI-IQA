@@ -4,7 +4,7 @@ A pytorch implementation of the paper ''UNI-IQA: A Unified Approach for Mutual P
 ![image](https://github.com/democode123/UNI-IQA/blob/main/pipeline.png)
 
 # Prequisite:
-Python 3+
+Python 3+ 
 PyTorch 1.4+  
 Matlab 
 
